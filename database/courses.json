@@ -1,0 +1,117 @@
+[
+    {
+      "courseId": "001",
+      "title": "Python Programming for Beginners",
+      "releaseDate": "2023-05-15",
+      "description": "Learn Python programming language from scratch with this comprehensive course designed for beginners.",
+      "duration": "10 weeks",
+      "instructor": "John Smith",
+      "rating": 4.5,
+      "price": "$99.99",
+      "topics": [
+        "Python Basics",
+        "Data Structures",
+        "Functions",
+        "File Handling",
+        "Object-Oriented Programming"
+      ],
+      "image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=1060&t=st=1710928255~exp=1710928855~hmac=2cc00d72448e1c4f1f05b04ee3f4b0220a1a3d8bba9c89b83b7b5df5911ab9a6",
+      "enrollLink": "https://www.udemy.com/"
+    },
+    {
+      "courseId": "002",
+      "title": "Web Development Bootcamp",
+      "releaseDate": "2023-09-20",
+      "description": "Master web development technologies including HTML, CSS, JavaScript, and more with this intensive bootcamp.",
+      "duration": "12 weeks",
+      "instructor": "Emily Johnson",
+      "rating": 4.8,
+      "price": "$149.99",
+      "topics": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive Design",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "image": "https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?w=1060&t=st=1710928173~exp=1710928773~hmac=8f3394ef0b51893b1b2bd2ad307124584f2484c2500d9cb754fd178b66879940",
+      "enrollLink": "https://www.udemy.com/"
+    },
+    {
+      "courseId": "003",
+      "title": "Data Science and Machine Learning",
+      "releaseDate": "2023-11-10",
+      "description": "Explore the fundamentals of data science and machine learning with hands-on projects and real-world examples.",
+      "duration": "8 weeks",
+      "instructor": "Sarah Lee",
+      "rating": 4.7,
+      "price": "$199.99",
+      "topics": [
+        "Statistics",
+        "Data Analysis",
+        "Machine Learning Algorithms",
+        "Deep Learning",
+        "Natural Language Processing"
+      ],
+      "image": "https://img.freepik.com/free-photo/revenue-operations-collage_23-2150847854.jpg?w=1060&t=st=1710928223~exp=1710928823~hmac=42cc15c683efe147bca5bb268d7f9ed0d1b458e0607d2f7c841d33fe20136cf1",
+      "enrollLink": "https://www.udemy.com/"
+    },
+    {
+      "courseId": "004",
+      "title": "Java Programming Fundamentals",
+      "releaseDate": "2023-07-01",
+      "description": "Learn the basics of Java programming language with this beginner-friendly course.",
+      "duration": "8 weeks",
+      "instructor": "Michael Brown",
+      "rating": 4.3,
+      "price": "$89.99",
+      "topics": [
+        "Java Syntax",
+        "Object-Oriented Programming",
+        "Exception Handling",
+        "Collections Framework"
+      ],
+      "image": "https://img.freepik.com/free-photo/computer-developer-illustration-design_1409-7100.jpg?t=st=1710928253~exp=1710931853~hmac=c0e9a024d0fc2bfc9143827704097742a3db989773a9acc4bef4452e07078dc6&w=1060",
+      "enrollLink": "https://www.udemy.com/"
+    },
+    {
+      "courseId": "005",
+      "title": "React.js Essentials",
+      "releaseDate": "2023-08-15",
+      "description": "Master React.js library for building interactive user interfaces with this hands-on course.",
+      "duration": "6 weeks",
+      "instructor": "Jessica Adams",
+      "rating": 4.9,
+      "price": "$129.99",
+      "topics": [
+        "React Components",
+        "State and Props",
+        "React Hooks",
+        "Routing with React Router",
+        "Context API"
+      ],
+      "image": "https://example.com/react-essentials.jpg",
+      "enrollLink": "https://www.udemy.com/"
+    },
+    {
+      "courseId": "006",
+      "title": "iOS App Development with Swift",
+      "releaseDate": "2023-10-20",
+      "description": "Build iOS applications using Swift programming language and Xcode IDE with this comprehensive course.",
+      "duration": "12 weeks",
+      "instructor": "David Miller",
+      "rating": 4.6,
+      "price": "$179.99",
+      "topics": [
+        "Swift Basics",
+        "UIKit",
+        "Auto Layout",
+        "Networking",
+        "Core Data"
+      ],
+      "image": "https://img.freepik.com/free-psd/red-fresh-apple-isolated-con-transparent-background_125540-5172.jpg?t=st=1710928327~exp=1710931927~hmac=f3532dbac72d0affc0afef4783177d8f09ce74b529a97ad9baa9b698e1ef4752&w=1060",
+      "enrollLink": "https://www.udemy.com/"
+    }
+]
