@@ -16,7 +16,8 @@
         "Object-Oriented Programming"
       ],
       "image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=1060&t=st=1710928255~exp=1710928855~hmac=2cc00d72448e1c4f1f05b04ee3f4b0220a1a3d8bba9c89b83b7b5df5911ab9a6",
-      "enrollLink": "https://www.udemy.com/"
+      "enrollLink": "https://www.udemy.com/", 
+      "reviewIds": []
     },
     {
       "courseId": "002",
@@ -37,7 +38,8 @@
         "MongoDB"
       ],
       "image": "https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?w=1060&t=st=1710928173~exp=1710928773~hmac=8f3394ef0b51893b1b2bd2ad307124584f2484c2500d9cb754fd178b66879940",
-      "enrollLink": "https://www.udemy.com/"
+      "enrollLink": "https://www.udemy.com/", 
+      "reviewIds": []
     },
     {
       "courseId": "003",
@@ -56,7 +58,8 @@
         "Natural Language Processing"
       ],
       "image": "https://img.freepik.com/free-photo/revenue-operations-collage_23-2150847854.jpg?w=1060&t=st=1710928223~exp=1710928823~hmac=42cc15c683efe147bca5bb268d7f9ed0d1b458e0607d2f7c841d33fe20136cf1",
-      "enrollLink": "https://www.udemy.com/"
+      "enrollLink": "https://www.udemy.com/", 
+      "reviewIds": []
     },
     {
       "courseId": "004",
@@ -74,7 +77,8 @@
         "Collections Framework"
       ],
       "image": "https://img.freepik.com/free-photo/computer-developer-illustration-design_1409-7100.jpg?t=st=1710928253~exp=1710931853~hmac=c0e9a024d0fc2bfc9143827704097742a3db989773a9acc4bef4452e07078dc6&w=1060",
-      "enrollLink": "https://www.udemy.com/"
+      "enrollLink": "https://www.udemy.com/", 
+      "reviewIds": []
     },
     {
       "courseId": "005",
@@ -93,7 +97,8 @@
         "Context API"
       ],
       "image": "https://example.com/react-essentials.jpg",
-      "enrollLink": "https://www.udemy.com/"
+      "enrollLink": "https://www.udemy.com/", 
+      "reviewIds": []
     },
     {
       "courseId": "006",
@@ -112,6 +117,7 @@
         "Core Data"
       ],
       "image": "https://img.freepik.com/free-psd/red-fresh-apple-isolated-con-transparent-background_125540-5172.jpg?t=st=1710928327~exp=1710931927~hmac=f3532dbac72d0affc0afef4783177d8f09ce74b529a97ad9baa9b698e1ef4752&w=1060",
-      "enrollLink": "https://www.udemy.com/"
+      "enrollLink": "https://www.udemy.com/", 
+      "reviewIds": []
     }
 ]
