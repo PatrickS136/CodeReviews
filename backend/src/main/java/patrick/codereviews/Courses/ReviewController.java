@@ -13,14 +13,8 @@ public class ReviewController {
     @Autowired
     private ReviewService service;
 
-    @GetMapping()
-    public String ahaha(){
-        return "ahaha";
-    }
-
     @PostMapping()
     public ResponseEntity<Review> createReview(@RequestBody Map<String, String> payload) {
-
         return new ResponseEntity<Review>(service.createReview(payload.get("reviewBody"), payload.get("courseId")), HttpStatus.OK);
     }
 }
